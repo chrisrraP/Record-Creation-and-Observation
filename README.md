@@ -25,7 +25,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - A-Record Creation and Observation
 - DNS Cache Flush
 - CNAME Record Creation and Observation
-- Create Network Security Groups and Assign Permissions
+- Configure Firewall with Command line tools
 
 <h2>Actions and Observations</h2>
 
