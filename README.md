@@ -39,7 +39,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a virtual server and one client with Microsoft Azure. First, log into client and ping a record that has not yet been created. Using the domain server, create an A-record in the DNS Manager. Pinging the record name again from client VM will show it now exists in the DNS cache. 
+Create a virtual server and one client with Microsoft Azure. Log into client and ping a record that has not yet been created. Using the domain server, create an A-record in the DNS Manager. Pinging the record name again from client VM will show it now exists in the DNS cache. 
 </p>
 <br />
 
