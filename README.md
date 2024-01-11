@@ -52,7 +52,7 @@ Using the domain server, change the host record's IP address. When pinging from 
 <img src="https://github.com/chrisrraP/Record-Creation-and-Observation/blob/main/Cname%20Created.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/chrisrraP/Record-Creation-and-Observation/blob/main/NSlookup%20Cname.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a CNAME record using the domain server that uses host name "search" to reach out to "www.google.com". Ping "search" from client VM and observe results. Utilize command prompt (nslookup search) to display additional address information. 
